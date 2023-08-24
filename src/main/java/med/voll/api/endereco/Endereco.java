@@ -25,7 +25,7 @@ public class Endereco {
         this.cep = dados.cep();
         this.uf = dados.uf();
         this.cidade = dados.cidade();
-        this.numero = dados.nunmero();
+        this.numero = dados.numero();
         this.complemento = dados.complemento();
     }
 }
